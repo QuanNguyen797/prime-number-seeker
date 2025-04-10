@@ -1,2 +1,2 @@
 # prime-number-seeker
-Script to find prime numbers from 2 to n.
+Simple web app to find prime numbers from 2 to a user selected number n.
